@@ -1,0 +1,4 @@
+﻿ - Install the program in the default directory
+ - Run the activator
+
+
